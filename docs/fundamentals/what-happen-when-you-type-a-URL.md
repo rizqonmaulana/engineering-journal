@@ -1,5 +1,9 @@
 # What Happens When You Type a URL
 
+```markdown
+![Alt text](/docs/images/what%20happen%20when%20you%20type%20a%20url.png)
+```
+
 ---
 
 ## 1. Browser Checks the Cache
