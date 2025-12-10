@@ -1,8 +1,6 @@
 # What Happens When You Type a URL
 
-```markdown
-![Alt text](https://raw.githubusercontent.com/rizqonmaulana/engineering-journal/refs/heads/main/docs/images/what%20happen%20when%20you%20type%20a%20url.png)
-```
+![What Happens When You Type a URL](https://raw.githubusercontent.com/rizqonmaulana/engineering-journal/refs/heads/main/docs/images/what%20happen%20when%20you%20type%20a%20url.png)
 
 ---
 
